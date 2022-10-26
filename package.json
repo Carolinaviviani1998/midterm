@@ -1,9 +1,13 @@
 {
-  "name": "comp229-m2022-midterm",
-  "version": "0.0.2",
+  "name": "comp229",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node server.js"
+  },
+  "engines": {
+    "node": "^12.18.3",
+    "npm": "^6.0.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
@@ -50,8 +54,5 @@
   ],
   "author": "Your Name Goes Here",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
   "homepage": ""
 }
